@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_world_label">Hello World!</string>
+    <string name="button_01_label">This is a button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Login Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_label">Login</string>
+    <string name="password_label">Password</string>
+    <string name="radio_button_label">Radio Button</string>
+    <string name="checkbox_label">CheckBox</string>
+    <string name="switch_label">What does this do?</string>
+    <string name="checkbox01_dialog_message">Are you sure you wish to finish this Activity?</string>
+    <string name="checkbox01_dialog_title">Confirm</string>
+    <string name="no_label">NO</string>
+    <string name="yes_label">YES</string>
+    <string name="checkbox01_dialog_accept_response_pass">Here is my response</string>
+    <string name="switch01_on_toast">Switch is On</string>
+    <string name="switch01_off_toast">Switch is Off</string>
+    <string name="camera_permission_denied_toast">You did not grant this app camera permission!</string>
+    <string name="send">SEND</string>
+    <string name="start_chat">Start Chat</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">অ্যান্ড্রয়েডকার্যাদি</string>
+    <string name="hello_world_label">ওহে বিশ্ব!</string>
+    <string name="button_01_label">এটি একটি বোতাম</string>
+    <string name="title_activity_login">লগইন ক্রিয়াকলাপ</string>
+    <string name="prompt_email">ইমেল</string>
+    <string name="prompt_password">পাসওয়ার্ড</string>
+    <string name="action_sign_in">সাইন ইন বা নিবন্ধন করুন</string>
+    <string name="action_sign_in_short">সাইন ইন করুন</string>
+    <string name="welcome">স্বাগত!</string>
+    <string name="invalid_username">কোনও বৈধ ব্যবহারকারীর নাম নয়</string>
+    <string name="invalid_password">পাসওয়ার্ডটি অবশ্যই 5 টি অক্ষর হতে হবে</string>
+    <string name="login_failed">লগইন ব্যর্থ</string>
+    <string name="login_label">প্রবেশ করুন</string>
+    <string name="password_label">পাসওয়ার্ড</string>
+    <string name="radio_button_label">রেডিও বোতাম</string>
+    <string name="checkbox_label">চেকবক্স</string>
+    <string name="switch_label">এটি কি করে?</string>
+    <string name="checkbox01_dialog_message">আপনি কি নিশ্চিত যে আপনি এই ক্রিয়াকলাপটি শেষ করতে চান?</string>
+    <string name="checkbox01_dialog_title">কনফার্ম</string>
+    <string name="no_label">না</string>
+    <string name="yes_label">হ্যাঁ</string>
+    <string name="checkbox01_dialog_accept_response_pass">এখানে আমার প্রতিক্রিয়া</string>
+    <string name="switch01_on_toast">স্যুইচ চালু আছে</string>
+    <string name="switch01_off_toast">সুইচ বন্ধ আছে</string>
+    <string name="camera_permission_denied_toast">আপনি এই অ্যাপ্লিকেশন ক্যামেরার অনুমতি মঞ্জুর করেন নি!</string>
+    <string name="send">পাঠান</string>
+    <string name="start_chat">চ্যাট শুরু করুন</string>
+</resources>
